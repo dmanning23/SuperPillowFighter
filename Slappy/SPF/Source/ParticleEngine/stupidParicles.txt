@@ -1,0 +1,35 @@
+		static float cur = GetGameTimer();
+		static float last = GetGameTimer();
+		cur = GetGameTimer();
+		float elaps = cur - last;
+        
+		// update Particles.
+		for(int i = 0; i < 100; i++)
+		{
+			if(!particles[i].bActive)
+			{
+				//float randAng = 
+                particles[i].bActive = true;
+				
+				// Get a random angle.
+				float random = ((rand()%100)/100.0f)*(SPF_PI/3.0f);
+                particles[i].tVelocity.tfX = ((rand()%15)+2)*SPF_COS(random+(SPF_PI/3.0f));
+                particles[i].tVelocity.tfY = ((rand()%15)+2)*SPF_SIN(random+(SPF_PI/3.0f));
+			}
+
+			// Apply gravity.
+			particles[i].tVelocity.tfY -= (9.8f * elaps);
+
+			particles[i].tPosition.tfX += (particles[i].tVelocity.tfX*elaps);
+			particles[i].tPosition.tfY += (particles[i].tVelocity.tfY*elaps);
+
+			if(particles[i].tPosition.tfY < -1.0f)
+			{
+				 particles[i].bActive = false;
+				 particles[i].tPosition.tfX = 0.0f;
+				 particles[i].tPosition.tfY = 0.0f;
+			}
+
+		}
+
+		last = cur;

@@ -1,0 +1,42 @@
+Super Pillow Fighter - Instruction Manual
+
+1. Requirements
+
+Minimum requirements:
+Super Pillow Fighter may still run if your computer does not meet these requirements, but with degraded performance.
+	Windows compatible PC
+	3D accelorator graphics card with 32MB of memory
+	Pentium 1 GHz
+	256 MB System Memory
+
+Recommended Requirements:
+Super Pillow Fighter will run best if your computer meets or exceeds these requirements.
+	Pentium 1.6 GHz or better
+	Joystick (needed for 2 or more players)
+	
+2. Installation
+To install Super Pillow Fighter, run the file "Super Pillow Fighter - Installer.exe".  Follow any directions given by the program.  At the end of the installation, the installer will ask to install OpenAL, which is the sound engine used by Super Pillow Fighter.  The game will not run if this software is not installed on your computer.
+
+3. Controls
+If there are no joysticks available, Super Pillow Fighter can be played in solo mode against computer controlled opponents.  The default keys are the arrow keys to control movement, and the 'A' key to attack, and the 'W' key to jump.  If joysticks are available, button 0 is the attack button, and button 1 is the jump button.  Super Pillow Fighter supports up to four players if the necessary joysticks are available.  
+
+4. Game Rules and Objectives
+The goal of Super Pillow Fighter is to knock the opposing players off the edges of the board, while not getting knocked off yourself.  The player has a variety of weapons at their disposal, including pillow, beach balls, and food.  The player swings the pillow using the Attack button.  If the player is standing on an item, the item can be picked up and thrown using the attack button.  Some items restore health instead of being thrown.  
+As the player gets hit, their damage meter goes up.  The higher the damage meter, the farther a player will fly after being hit.  If a player is hit and falls off the edge of the board, the last player to hit them will receive a point.  If the player falls off the edge of the board without being hit, no one receives a point, but that player will lose a point.
+There are two different game modes in Super Pillow Fighter.  The first mode "Knockout", in which the first player to score 3 points wins the match.  In the second mode, "Time Attack", the player with the highest score after time runs out wins the match.
+
+5. Credits
+Dan Manning - Project Manager, Programmer
+Kevin Cecelski - Technical Lead, Programmer
+Matt Strand - Programmer
+Allan Bittan - Programmer
+Daron Keeler - Programmer
+Aaron Gandia - Sound Effects
+Mike Cecelski - Music Composition
+Ashley "Chico Chan" Schoeller - 2d Character Art
+Jamie Fiore - 3d Character Art
+Audry Gandia - Voice Acting
+Dan Rosemund - Artist
+Devin Nickoloff - Artist
+James McCurry - Artist
+Jacob Meyer - Artist

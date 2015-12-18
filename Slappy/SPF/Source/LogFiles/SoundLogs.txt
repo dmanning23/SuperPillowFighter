@@ -1,0 +1,101 @@
+
+
+Mon Dec 20 21:21:18 2004
+Number of sources created: 31
+CSound initialized successfully
+Load Successful: ResourceFiles\Sounds\Josie_Puddin.wav was loaded successfully
+ERROR: Ogg Error: Unknown Ogg error: 0
+Unload successful: ResourceFiles\Sounds\Josie_Puddin.wav
+Load Successful: ResourceFiles\Sounds\Haid Pillow Hit.wav was loaded successfully
+Load Successful: ResourceFiles\Sounds\Item Pick-up.wav was loaded successfully
+Load Successful: ResourceFiles\Sounds\Item Splat.wav was loaded successfully
+Load Successful: ResourceFiles\Sounds\Item Splat 3.wav was loaded successfully
+Load Successful: ResourceFiles\Sounds\Item Splat Bell.wav was loaded successfully
+Load Successful: ResourceFiles\Sounds\Med Pillow Hit.wav was loaded successfully
+Load Successful: ResourceFiles\Sounds\Soft Pillow 1.wav was loaded successfully
+Load Successful: ResourceFiles\Sounds\Soft Pillow 2.wav was loaded successfully
+Load Successful: ResourceFiles\Sounds\Soft Pillow 3.wav was loaded successfully
+Load Successful: ResourceFiles\Sounds\Soft Pillow 4.wav was loaded successfully
+Load Successful: ResourceFiles\Sounds\Cannon.wav was loaded successfully
+Load Successful: ResourceFiles\Sounds\Wood Clunk.wav was loaded successfully
+Load Successful: ResourceFiles\Sounds\Boat Creak Long.wav was loaded successfully
+Load Successful: ResourceFiles\Sounds\Flag 2.wav was loaded successfully
+Load Successful: ResourceFiles\Sounds\Wave Long.wav was loaded successfully
+Load Successful: ResourceFiles\Sounds\Josie_Banana.wav was loaded successfully
+Load Successful: ResourceFiles\Sounds\Josie_Bump.wav was loaded successfully
+Load Successful: ResourceFiles\Sounds\Josie_Puddin.wav was loaded successfully
+Load Successful: ResourceFiles\Sounds\Josie_hehe.wav was loaded successfully
+Load Successful: ResourceFiles\Sounds\Josie_Eek_Laugh.wav was loaded successfully
+ERROR: OpenAL returned an error at line 675
+	Holy shit, OpenAL passed a weird error number: 40961
+ERROR: OpenAL returned an error at line 677
+	Holy shit, OpenAL passed a weird error number: 40961
+ERROR: Ogg Error: Unknown Ogg error: 0
+ERROR: Ogg Error: Unknown Ogg error: 0
+Unload successful: ResourceFiles\Sounds\Haid Pillow Hit.wav
+Unload successful: ResourceFiles\Sounds\Item Pick-up.wav
+Unload successful: ResourceFiles\Sounds\Item Splat.wav
+Unload successful: ResourceFiles\Sounds\Item Splat 3.wav
+Unload successful: ResourceFiles\Sounds\Item Splat Bell.wav
+Unload successful: ResourceFiles\Sounds\Med Pillow Hit.wav
+Unload successful: ResourceFiles\Sounds\Soft Pillow 1.wav
+Unload successful: ResourceFiles\Sounds\Soft Pillow 2.wav
+Unload successful: ResourceFiles\Sounds\Soft Pillow 3.wav
+Unload successful: ResourceFiles\Sounds\Soft Pillow 4.wav
+Unload successful: ResourceFiles\Sounds\Cannon.wav
+Unload successful: ResourceFiles\Sounds\Wood Clunk.wav
+Unload successful: ResourceFiles\Sounds\Boat Creak Long.wav
+Unload successful: ResourceFiles\Sounds\Flag 2.wav
+Unload successful: ResourceFiles\Sounds\Wave Long.wav
+Unload successful: ResourceFiles\Sounds\Josie_Banana.wav
+Unload successful: ResourceFiles\Sounds\Josie_Bump.wav
+Unload successful: ResourceFiles\Sounds\Josie_Puddin.wav
+Unload successful: ResourceFiles\Sounds\Josie_hehe.wav
+Unload successful: ResourceFiles\Sounds\Josie_Eek_Laugh.wav
+CSound shutdown successfully
+
+
+Mon Dec 20 21:23:48 2004
+Number of sources created: 31
+CSound initialized successfully
+Load Successful: ResourceFiles\Sounds\Josie_Puddin.wav was loaded successfully
+ERROR: Ogg Error: Unknown Ogg error: 0
+CSound shutdown successfully
+
+
+Sun Mar 26 17:56:13 2006
+Number of sources created: 31
+CSound initialized successfully
+Load Successful: ResourceFiles\Sounds\Josie_Puddin.wav was loaded successfully
+ERROR: Ogg Error: Unknown Ogg error: 0
+Unload successful: ResourceFiles\Sounds\Josie_Puddin.wav
+Load Successful: ResourceFiles\Sounds\Haid Pillow Hit.wav was loaded successfully
+Load Successful: ResourceFiles\Sounds\Item Pick-up.wav was loaded successfully
+Load Successful: ResourceFiles\Sounds\Item Splat.wav was loaded successfully
+Load Successful: ResourceFiles\Sounds\Item Splat 3.wav was loaded successfully
+Load Successful: ResourceFiles\Sounds\Item Splat Bell.wav was loaded successfully
+Load Successful: ResourceFiles\Sounds\Med Pillow Hit.wav was loaded successfully
+Load Successful: ResourceFiles\Sounds\Soft Pillow 1.wav was loaded successfully
+Load Successful: ResourceFiles\Sounds\Soft Pillow 2.wav was loaded successfully
+Load Successful: ResourceFiles\Sounds\Soft Pillow 3.wav was loaded successfully
+Load Successful: ResourceFiles\Sounds\Soft Pillow 4.wav was loaded successfully
+Load Successful: ResourceFiles\Sounds\Cannon.wav was loaded successfully
+Load Successful: ResourceFiles\Sounds\Wood Clunk.wav was loaded successfully
+Load Successful: ResourceFiles\Sounds\Boat Creak Long.wav was loaded successfully
+Load Successful: ResourceFiles\Sounds\Flag 2.wav was loaded successfully
+Load Successful: ResourceFiles\Sounds\Wave Long.wav was loaded successfully
+Load Successful: ResourceFiles\Sounds\Josie_Banana.wav was loaded successfully
+Load Successful: ResourceFiles\Sounds\Josie_Bump.wav was loaded successfully
+Load Successful: ResourceFiles\Sounds\Josie_Puddin.wav was loaded successfully
+Load Successful: ResourceFiles\Sounds\Josie_hehe.wav was loaded successfully
+Load Successful: ResourceFiles\Sounds\Josie_Eek_Laugh.wav was loaded successfully
+ERROR: OpenAL returned an error at line 675
+	Holy shit, OpenAL passed a weird error number: 40961
+ERROR: OpenAL returned an error at line 677
+	Holy shit, OpenAL passed a weird error number: 40961
+ERROR: Ogg Error: Unknown Ogg error: 0
+ERROR: OpenAL returned an error at line 675
+	Holy shit, OpenAL passed a weird error number: 40961
+ERROR: OpenAL returned an error at line 677
+	Holy shit, OpenAL passed a weird error number: 40961
+CSound shutdown successfully

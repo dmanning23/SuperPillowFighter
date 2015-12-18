@@ -1,0 +1,208 @@
+
+
+Mon Dec 20 21:21:41 2004
+Attempting to load model: "ResourceFiles//models//cannon.mef"
+	Number of vertices in this model: 257
+	Number of indices for this model: 1632
+	Name of the texture file for this model: cannon.tga
+Success loading model: ResourceFiles//models//cannon.mef
+
+
+Mon Dec 20 21:21:41 2004
+Attempting to load model: "ResourceFiles//models//cannon.mef"
+	Number of vertices in this model: 257
+	Number of indices for this model: 1632
+	Name of the texture file for this model: cannon.tga
+Success loading model: ResourceFiles//models//cannon.mef
+
+
+Mon Dec 20 21:21:41 2004
+Attempting to load model: "ResourceFiles//models//pirateship.mef"
+	Number of vertices in this model: 2154
+	Number of indices for this model: 5718
+	Name of the texture file for this model: pirateship.tga
+Success loading model: ResourceFiles//models//pirateship.mef
+
+
+Mon Dec 20 21:21:43 2004
+Attempting to load model: "ResourceFiles//models//pear.mef"
+	Number of vertices in this model: 66
+	Number of indices for this model: 258
+	Name of the texture file for this model: pear.tga
+Success loading model: ResourceFiles//models//pear.mef
+
+
+Mon Dec 20 21:21:43 2004
+Attempting to load model: "ResourceFiles//models//pineapple.mef"
+	Number of vertices in this model: 66
+	Number of indices for this model: 258
+	Name of the texture file for this model: pineapple.tga
+Success loading model: ResourceFiles//models//pineapple.mef
+
+
+Mon Dec 20 21:21:43 2004
+Attempting to load model: "ResourceFiles//models//cone.mef"
+	Number of vertices in this model: 57
+	Number of indices for this model: 216
+	Name of the texture file for this model: cone.tga
+Success loading model: ResourceFiles//models//cone.mef
+
+
+Mon Dec 20 21:21:43 2004
+Attempting to load model: "ResourceFiles//models//bitball.mef"
+	Number of vertices in this model: 65
+	Number of indices for this model: 336
+	Name of the texture file for this model: bitball.tga
+Success loading model: ResourceFiles//models//bitball.mef
+
+
+Mon Dec 20 21:21:43 2004
+Attempting to load model: "ResourceFiles//models//pie.mef"
+	Number of vertices in this model: 31
+	Number of indices for this model: 144
+	Name of the texture file for this model: pie.tga
+Success loading model: ResourceFiles//models//pie.mef
+
+
+Mon Dec 20 21:21:43 2004
+Attempting to load model: "ResourceFiles//models//turkey.mef"
+	Number of vertices in this model: 44
+	Number of indices for this model: 120
+	Name of the texture file for this model: turkey.tga
+Success loading model: ResourceFiles//models//turkey.mef
+
+
+Mon Dec 20 21:21:43 2004
+Attempting to load model: "ResourceFiles//models//josie.mef"
+	Number of vertices in this model: 1030
+	Number of indices for this model: 4395
+	Name of the texture file for this model: josie_texture.tga
+Success loading model: ResourceFiles//models//josie.mef
+
+
+Mon Dec 20 21:21:44 2004
+Attempting to load model: "ResourceFiles//models//josiePillow.mef"
+	Number of vertices in this model: 54
+	Number of indices for this model: 192
+	Name of the texture file for this model: josiePillow.tga
+Success loading model: ResourceFiles//models//josiePillow.mef
+
+
+Mon Dec 20 21:21:44 2004
+Attempting to load model: "ResourceFiles//models//josie.mef"
+	Number of vertices in this model: 1030
+	Number of indices for this model: 4395
+	Name of the texture file for this model: josie_texture.tga
+Success loading model: ResourceFiles//models//josie.mef
+
+
+Mon Dec 20 21:21:45 2004
+Attempting to load model: "ResourceFiles//models//josiePillow.mef"
+	Number of vertices in this model: 54
+	Number of indices for this model: 192
+	Name of the texture file for this model: josiePillow.tga
+Success loading model: ResourceFiles//models//josiePillow.mef
+
+
+Sun Mar 26 17:56:20 2006
+Attempting to load model: "ResourceFiles//models//cannon.mef"
+	Number of vertices in this model: 257
+	Number of indices for this model: 1632
+	Name of the texture file for this model: cannon.tga
+Success loading model: ResourceFiles//models//cannon.mef
+
+
+Sun Mar 26 17:56:20 2006
+Attempting to load model: "ResourceFiles//models//cannon.mef"
+	Number of vertices in this model: 257
+	Number of indices for this model: 1632
+	Name of the texture file for this model: cannon.tga
+Success loading model: ResourceFiles//models//cannon.mef
+
+
+Sun Mar 26 17:56:20 2006
+Attempting to load model: "ResourceFiles//models//pirateship.mef"
+	Number of vertices in this model: 2154
+	Number of indices for this model: 5718
+	Name of the texture file for this model: pirateship.tga
+Success loading model: ResourceFiles//models//pirateship.mef
+
+
+Sun Mar 26 17:56:21 2006
+Attempting to load model: "ResourceFiles//models//pear.mef"
+	Number of vertices in this model: 66
+	Number of indices for this model: 258
+	Name of the texture file for this model: pear.tga
+Success loading model: ResourceFiles//models//pear.mef
+
+
+Sun Mar 26 17:56:21 2006
+Attempting to load model: "ResourceFiles//models//pineapple.mef"
+	Number of vertices in this model: 66
+	Number of indices for this model: 258
+	Name of the texture file for this model: pineapple.tga
+Success loading model: ResourceFiles//models//pineapple.mef
+
+
+Sun Mar 26 17:56:21 2006
+Attempting to load model: "ResourceFiles//models//cone.mef"
+	Number of vertices in this model: 57
+	Number of indices for this model: 216
+	Name of the texture file for this model: cone.tga
+Success loading model: ResourceFiles//models//cone.mef
+
+
+Sun Mar 26 17:56:21 2006
+Attempting to load model: "ResourceFiles//models//bitball.mef"
+	Number of vertices in this model: 65
+	Number of indices for this model: 336
+	Name of the texture file for this model: bitball.tga
+Success loading model: ResourceFiles//models//bitball.mef
+
+
+Sun Mar 26 17:56:21 2006
+Attempting to load model: "ResourceFiles//models//pie.mef"
+	Number of vertices in this model: 31
+	Number of indices for this model: 144
+	Name of the texture file for this model: pie.tga
+Success loading model: ResourceFiles//models//pie.mef
+
+
+Sun Mar 26 17:56:21 2006
+Attempting to load model: "ResourceFiles//models//turkey.mef"
+	Number of vertices in this model: 44
+	Number of indices for this model: 120
+	Name of the texture file for this model: turkey.tga
+Success loading model: ResourceFiles//models//turkey.mef
+
+
+Sun Mar 26 17:56:21 2006
+Attempting to load model: "ResourceFiles//models//josie.mef"
+	Number of vertices in this model: 1030
+	Number of indices for this model: 4395
+	Name of the texture file for this model: josie_texture.tga
+Success loading model: ResourceFiles//models//josie.mef
+
+
+Sun Mar 26 17:56:22 2006
+Attempting to load model: "ResourceFiles//models//josiePillow.mef"
+	Number of vertices in this model: 54
+	Number of indices for this model: 192
+	Name of the texture file for this model: josiePillow.tga
+Success loading model: ResourceFiles//models//josiePillow.mef
+
+
+Sun Mar 26 17:56:22 2006
+Attempting to load model: "ResourceFiles//models//josie.mef"
+	Number of vertices in this model: 1030
+	Number of indices for this model: 4395
+	Name of the texture file for this model: josie_texture.tga
+Success loading model: ResourceFiles//models//josie.mef
+
+
+Sun Mar 26 17:56:22 2006
+Attempting to load model: "ResourceFiles//models//josiePillow.mef"
+	Number of vertices in this model: 54
+	Number of indices for this model: 192
+	Name of the texture file for this model: josiePillow.tga
+Success loading model: ResourceFiles//models//josiePillow.mef

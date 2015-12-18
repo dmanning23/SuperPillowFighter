@@ -1,0 +1,14 @@
+
+
+Mon Dec 20 21:21:41 2004
+Constructor called
+Number of players generated: 2
+Number of level objects generated: 3
+Destructor called
+
+
+Sun Mar 26 17:56:20 2006
+Constructor called
+Number of players generated: 2
+Number of level objects generated: 3
+Destructor called

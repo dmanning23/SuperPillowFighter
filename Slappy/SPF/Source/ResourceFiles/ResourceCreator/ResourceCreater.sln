@@ -1,0 +1,39 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ResourceCreater", "ResourceCreater\ResourceCreater.vcproj", "{93F3BB4E-8A08-4DC0-B2E1-8B22B2278724}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LevelObjectResourceCreator", "LevelObjectResourceCreator\LevelObjectResourceCreator.vcproj", "{472B8BF2-8CDD-4F81-8B6E-2ABEF0B96C6F}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ParticleEditor", "ParticleEditor\ParticleEditor.vcproj", "{68B6040E-FAC8-4C04-BA72-B51674A6EA2E}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Particle Veiwer", "Particle Veiwer\Particle Veiwer.vcproj", "{1E43DA31-6069-4C45-A225-02876F950E7A}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{93F3BB4E-8A08-4DC0-B2E1-8B22B2278724}.Debug.ActiveCfg = Debug|Win32
+		{93F3BB4E-8A08-4DC0-B2E1-8B22B2278724}.Debug.Build.0 = Debug|Win32
+		{93F3BB4E-8A08-4DC0-B2E1-8B22B2278724}.Release.ActiveCfg = Release|Win32
+		{93F3BB4E-8A08-4DC0-B2E1-8B22B2278724}.Release.Build.0 = Release|Win32
+		{472B8BF2-8CDD-4F81-8B6E-2ABEF0B96C6F}.Debug.ActiveCfg = Debug|Win32
+		{472B8BF2-8CDD-4F81-8B6E-2ABEF0B96C6F}.Debug.Build.0 = Debug|Win32
+		{472B8BF2-8CDD-4F81-8B6E-2ABEF0B96C6F}.Release.ActiveCfg = Release|Win32
+		{472B8BF2-8CDD-4F81-8B6E-2ABEF0B96C6F}.Release.Build.0 = Release|Win32
+		{68B6040E-FAC8-4C04-BA72-B51674A6EA2E}.Debug.ActiveCfg = Debug|Win32
+		{68B6040E-FAC8-4C04-BA72-B51674A6EA2E}.Debug.Build.0 = Debug|Win32
+		{68B6040E-FAC8-4C04-BA72-B51674A6EA2E}.Release.ActiveCfg = Release|Win32
+		{68B6040E-FAC8-4C04-BA72-B51674A6EA2E}.Release.Build.0 = Release|Win32
+		{1E43DA31-6069-4C45-A225-02876F950E7A}.Debug.ActiveCfg = Debug|Win32
+		{1E43DA31-6069-4C45-A225-02876F950E7A}.Debug.Build.0 = Debug|Win32
+		{1E43DA31-6069-4C45-A225-02876F950E7A}.Release.ActiveCfg = Release|Win32
+		{1E43DA31-6069-4C45-A225-02876F950E7A}.Release.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

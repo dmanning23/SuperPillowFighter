@@ -1,0 +1,499 @@
+
+
+Mon Dec 20 21:21:08 2004
+Initializing the bitmap manager.
+	Attempting to load TGA image: ResourceFiles\textures\carbon_13.tga
+	ResourceFiles\textures\carbon_13.tga was successfully loaded.
+	Attempting to load TGA image: ResourceFiles\textures\smileytooth1.tga
+	ResourceFiles\textures\smileytooth1.tga was successfully loaded.
+	Attempting to load TGA image: ResourceFiles\textures\Feather.tga
+	ResourceFiles\textures\Feather.tga was successfully loaded.
+	Attempting to load TGA image: ResourceFiles\textures\defaultparticle.tga
+	ResourceFiles\textures\defaultparticle.tga was successfully loaded.
+	Attempting to load TGA image: ResourceFiles\textures\Death.tga
+	ResourceFiles\textures\Death.tga was successfully loaded.
+	Attempting to load TGA image: ResourceFiles\textures\defaultparticle.tga
+		Image ResourceFiles\textures\defaultparticle.tga already loaded.
+	Attempting to load TGA image: ResourceFiles\textures\Puff.tga
+	ResourceFiles\textures\Puff.tga was successfully loaded.
+	Attempting to load TGA image: ResourceFiles\textures\PowerupHit.tga
+	ResourceFiles\textures\PowerupHit.tga was successfully loaded.
+	Attempting to load TGA image: ResourceFiles\textures\Smoke.tga
+	ResourceFiles\textures\Smoke.tga was successfully loaded.
+	Attempting to load TGA image: ResourceFiles\textures\JosieSpawn.tga
+	ResourceFiles\textures\JosieSpawn.tga was successfully loaded.
+	Attempting to load TGA image: ResourceFiles\textures\SallySpawn.tga
+	ResourceFiles\textures\SallySpawn.tga was successfully loaded.
+	Attempting to load TGA image: ResourceFiles\textures\MissElizabethSpawn.tga
+	ResourceFiles\textures\MissElizabethSpawn.tga was successfully loaded.
+	Attempting to load TGA image: ResourceFiles\textures\SumiSpawn.tga
+	ResourceFiles\textures\SumiSpawn.tga was successfully loaded.
+	Attempting to load TGA image: ResourceFiles\textures\heart.tga
+	ResourceFiles\textures\heart.tga was successfully loaded.
+	Attempting to load TGA image: ResourceFiles\textures\CannonShot.tga
+	ResourceFiles\textures\CannonShot.tga was successfully loaded.
+	Attempting to load TGA image: ResourceFiles\textures\Pinkback.tga
+	ResourceFiles\textures\Pinkback.tga was successfully loaded.
+	Attempting to load TGA image: ResourceFiles\textures\Pillow.tga
+	ResourceFiles\textures\Pillow.tga was successfully loaded.
+	Attempting to load TGA image: ResourceFiles\textures\PillowDark.tga
+	ResourceFiles\textures\PillowDark.tga was successfully loaded.
+	Attempting to load TGA image: ResourceFiles\textures\Title.tga
+	ResourceFiles\textures\Title.tga was successfully loaded.
+	Attempting to load TGA image: ResourceFiles\textures\Pinkback.tga
+		Image ResourceFiles\textures\Pinkback.tga already loaded.
+	Attempting to load TGA image: ResourceFiles\textures\Pillow.tga
+		Image ResourceFiles\textures\Pillow.tga already loaded.
+	Attempting to load TGA image: ResourceFiles\textures\PillowDark.tga
+		Image ResourceFiles\textures\PillowDark.tga already loaded.
+	Attempting to load TGA image: ResourceFiles\textures\JosieDone.tga
+	ResourceFiles\textures\JosieDone.tga was successfully loaded.
+	Attempting to load TGA image: ResourceFiles\textures\CaptainSallyDone.tga
+	ResourceFiles\textures\CaptainSallyDone.tga was successfully loaded.
+	Attempting to load TGA image: ResourceFiles\textures\MissElizabethDone.tga
+	ResourceFiles\textures\MissElizabethDone.tga was successfully loaded.
+	Attempting to load TGA image: ResourceFiles\textures\SumiDone.tga
+	ResourceFiles\textures\SumiDone.tga was successfully loaded.
+	Attempting to load TGA image: ResourceFiles\textures\Player1BG.tga
+	ResourceFiles\textures\Player1BG.tga was successfully loaded.
+	Attempting to load TGA image: ResourceFiles\textures\Player2BG.tga
+	ResourceFiles\textures\Player2BG.tga was successfully loaded.
+	Attempting to load TGA image: ResourceFiles\textures\Player3BG.tga
+	ResourceFiles\textures\Player3BG.tga was successfully loaded.
+	Attempting to load TGA image: ResourceFiles\textures\Player4BG.tga
+	ResourceFiles\textures\Player4BG.tga was successfully loaded.
+	Attempting to load TGA image: ResourceFiles\textures\Pinkback.tga
+		Image ResourceFiles\textures\Pinkback.tga already loaded.
+	Attempting to load TGA image: ResourceFiles\textures\Pillow.tga
+		Image ResourceFiles\textures\Pillow.tga already loaded.
+	Attempting to load TGA image: ResourceFiles\textures\PillowDark.tga
+		Image ResourceFiles\textures\PillowDark.tga already loaded.
+	Attempting to load TGA image: ResourceFiles\textures\Title.tga
+		Image ResourceFiles\textures\Title.tga already loaded.
+	Attempting to load TGA image: ResourceFiles\textures\DuckyBack.tga
+	ResourceFiles\textures\DuckyBack.tga was successfully loaded.
+	Attempting to load TGA image: ResourceFiles\textures\BmpFontsNEW.tga
+	ResourceFiles\textures\BmpFontsNEW.tga was successfully loaded.
+	Attempting to load TGA image: ResourceFiles\textures\JosieLose.tga
+	ResourceFiles\textures\JosieLose.tga was successfully loaded.
+	Unloading texture: ResourceFiles\textures\carbon_13.tga
+	Unloading texture: ResourceFiles\textures\smileytooth1.tga
+	Unloading texture: ResourceFiles\textures\Feather.tga
+	Unloading texture: ResourceFiles\textures\defaultparticle.tga
+	Unloading texture: ResourceFiles\textures\Death.tga
+	Unloading texture: ResourceFiles\textures\Puff.tga
+	Unloading texture: ResourceFiles\textures\PowerupHit.tga
+	Unloading texture: ResourceFiles\textures\Smoke.tga
+	Unloading texture: ResourceFiles\textures\JosieSpawn.tga
+	Unloading texture: ResourceFiles\textures\SallySpawn.tga
+	Unloading texture: ResourceFiles\textures\MissElizabethSpawn.tga
+	Unloading texture: ResourceFiles\textures\SumiSpawn.tga
+	Unloading texture: ResourceFiles\textures\heart.tga
+	Unloading texture: ResourceFiles\textures\CannonShot.tga
+	Unloading texture: ResourceFiles\textures\Pinkback.tga
+	Unloading texture: ResourceFiles\textures\Pillow.tga
+	Unloading texture: ResourceFiles\textures\PillowDark.tga
+	Unloading texture: ResourceFiles\textures\Title.tga
+	Unloading texture: ResourceFiles\textures\JosieDone.tga
+	Unloading texture: ResourceFiles\textures\CaptainSallyDone.tga
+	Unloading texture: ResourceFiles\textures\MissElizabethDone.tga
+	Unloading texture: ResourceFiles\textures\SumiDone.tga
+	Unloading texture: ResourceFiles\textures\Player1BG.tga
+	Unloading texture: ResourceFiles\textures\Player2BG.tga
+	Unloading texture: ResourceFiles\textures\Player3BG.tga
+	Unloading texture: ResourceFiles\textures\Player4BG.tga
+	Unloading texture: ResourceFiles\textures\DuckyBack.tga
+	Unloading texture: ResourceFiles\textures\BmpFontsNEW.tga
+	Unloading texture: ResourceFiles\textures\JosieLose.tga
+	Attempting to load TGA image: ResourceFiles\textures\Feather.tga
+	ResourceFiles\textures\Feather.tga was successfully loaded.
+	Attempting to load TGA image: ResourceFiles\textures\defaultparticle.tga
+	ResourceFiles\textures\defaultparticle.tga was successfully loaded.
+	Attempting to load TGA image: ResourceFiles\textures\Death.tga
+	ResourceFiles\textures\Death.tga was successfully loaded.
+	Attempting to load TGA image: ResourceFiles\textures\defaultparticle.tga
+		Image ResourceFiles\textures\defaultparticle.tga already loaded.
+	Attempting to load TGA image: ResourceFiles\textures\Puff.tga
+	ResourceFiles\textures\Puff.tga was successfully loaded.
+	Attempting to load TGA image: ResourceFiles\textures\PowerupHit.tga
+	ResourceFiles\textures\PowerupHit.tga was successfully loaded.
+	Attempting to load TGA image: ResourceFiles\textures\Smoke.tga
+	ResourceFiles\textures\Smoke.tga was successfully loaded.
+	Attempting to load TGA image: ResourceFiles\textures\JosieSpawn.tga
+	ResourceFiles\textures\JosieSpawn.tga was successfully loaded.
+	Attempting to load TGA image: ResourceFiles\textures\SallySpawn.tga
+	ResourceFiles\textures\SallySpawn.tga was successfully loaded.
+	Attempting to load TGA image: ResourceFiles\textures\MissElizabethSpawn.tga
+	ResourceFiles\textures\MissElizabethSpawn.tga was successfully loaded.
+	Attempting to load TGA image: ResourceFiles\textures\SumiSpawn.tga
+	ResourceFiles\textures\SumiSpawn.tga was successfully loaded.
+	Attempting to load TGA image: ResourceFiles\textures\heart.tga
+	ResourceFiles\textures\heart.tga was successfully loaded.
+	Attempting to load TGA image: ResourceFiles\textures\CannonShot.tga
+	ResourceFiles\textures\CannonShot.tga was successfully loaded.
+	Attempting to load TGA image: ResourceFiles//textures//cannon.tga
+	ResourceFiles//textures//cannon.tga was successfully loaded.
+	Attempting to load TGA image: ResourceFiles//textures//cannon.tga
+		Image ResourceFiles//textures//cannon.tga already loaded.
+	Attempting to load TGA image: ResourceFiles//textures//pirateship.tga
+	ResourceFiles//textures//pirateship.tga was successfully loaded.
+	Attempting to load TGA image: ResourceFiles\textures\galaxy2.tga
+	ResourceFiles\textures\galaxy2.tga was successfully loaded.
+	Attempting to load TGA image: ResourceFiles//textures//water.tga
+	ResourceFiles//textures//water.tga was successfully loaded.
+	Attempting to load TGA image: ResourceFiles//textures//pear.tga
+	ResourceFiles//textures//pear.tga was successfully loaded.
+	Attempting to load TGA image: ResourceFiles//textures//pineapple.tga
+	ResourceFiles//textures//pineapple.tga was successfully loaded.
+	Attempting to load TGA image: ResourceFiles//textures//cone.tga
+	ResourceFiles//textures//cone.tga was successfully loaded.
+	Attempting to load TGA image: ResourceFiles//textures//bitball.tga
+	ResourceFiles//textures//bitball.tga was successfully loaded.
+	Attempting to load TGA image: ResourceFiles//textures//pie.tga
+	ResourceFiles//textures//pie.tga was successfully loaded.
+	Attempting to load TGA image: ResourceFiles//textures//turkey.tga
+	ResourceFiles//textures//turkey.tga was successfully loaded.
+	Attempting to load TGA image: ResourceFiles//textures//josie_texture.tga
+	ResourceFiles//textures//josie_texture.tga was successfully loaded.
+	Attempting to load TGA image: ResourceFiles//textures//josiePillow.tga
+	ResourceFiles//textures//josiePillow.tga was successfully loaded.
+	Attempting to load TGA image: ResourceFiles//textures//josie_texture.tga
+		Image ResourceFiles//textures//josie_texture.tga already loaded.
+	Attempting to load TGA image: ResourceFiles//textures//josiePillow.tga
+		Image ResourceFiles//textures//josiePillow.tga already loaded.
+	Attempting to load TGA image: ResourceFiles\textures\JosiePortrait.tga
+	ResourceFiles\textures\JosiePortrait.tga was successfully loaded.
+	Attempting to load TGA image: ResourceFiles\textures\SallyPortrait.tga
+	ResourceFiles\textures\SallyPortrait.tga was successfully loaded.
+	Attempting to load TGA image: ResourceFiles\textures\portraitBckCircle.tga
+	ResourceFiles\textures\portraitBckCircle.tga was successfully loaded.
+	Attempting to load TGA image: ResourceFiles\textures\BmpFontsNEW.tga
+	ResourceFiles\textures\BmpFontsNEW.tga was successfully loaded.
+	Unloading texture: ResourceFiles\textures\Feather.tga
+	Unloading texture: ResourceFiles\textures\defaultparticle.tga
+	Unloading texture: ResourceFiles\textures\Death.tga
+	Unloading texture: ResourceFiles\textures\Puff.tga
+	Unloading texture: ResourceFiles\textures\PowerupHit.tga
+	Unloading texture: ResourceFiles\textures\Smoke.tga
+	Unloading texture: ResourceFiles\textures\JosieSpawn.tga
+	Unloading texture: ResourceFiles\textures\SallySpawn.tga
+	Unloading texture: ResourceFiles\textures\MissElizabethSpawn.tga
+	Unloading texture: ResourceFiles\textures\SumiSpawn.tga
+	Unloading texture: ResourceFiles\textures\heart.tga
+	Unloading texture: ResourceFiles\textures\CannonShot.tga
+	Unloading texture: ResourceFiles//textures//cannon.tga
+	Unloading texture: ResourceFiles//textures//pirateship.tga
+	Unloading texture: ResourceFiles\textures\galaxy2.tga
+	Unloading texture: ResourceFiles//textures//water.tga
+	Unloading texture: ResourceFiles//textures//pear.tga
+	Unloading texture: ResourceFiles//textures//pineapple.tga
+	Unloading texture: ResourceFiles//textures//cone.tga
+	Unloading texture: ResourceFiles//textures//bitball.tga
+	Unloading texture: ResourceFiles//textures//pie.tga
+	Unloading texture: ResourceFiles//textures//turkey.tga
+	Unloading texture: ResourceFiles//textures//josie_texture.tga
+	Unloading texture: ResourceFiles//textures//josiePillow.tga
+	Unloading texture: ResourceFiles\textures\JosiePortrait.tga
+	Unloading texture: ResourceFiles\textures\SallyPortrait.tga
+	Unloading texture: ResourceFiles\textures\portraitBckCircle.tga
+	Unloading texture: ResourceFiles\textures\BmpFontsNEW.tga
+	Attempting to load TGA image: ResourceFiles\textures\Feather.tga
+	ResourceFiles\textures\Feather.tga was successfully loaded.
+	Attempting to load TGA image: ResourceFiles\textures\defaultparticle.tga
+	ResourceFiles\textures\defaultparticle.tga was successfully loaded.
+	Attempting to load TGA image: ResourceFiles\textures\Death.tga
+	ResourceFiles\textures\Death.tga was successfully loaded.
+	Attempting to load TGA image: ResourceFiles\textures\defaultparticle.tga
+		Image ResourceFiles\textures\defaultparticle.tga already loaded.
+	Attempting to load TGA image: ResourceFiles\textures\Puff.tga
+	ResourceFiles\textures\Puff.tga was successfully loaded.
+	Attempting to load TGA image: ResourceFiles\textures\PowerupHit.tga
+	ResourceFiles\textures\PowerupHit.tga was successfully loaded.
+	Attempting to load TGA image: ResourceFiles\textures\Smoke.tga
+	ResourceFiles\textures\Smoke.tga was successfully loaded.
+	Attempting to load TGA image: ResourceFiles\textures\JosieSpawn.tga
+	ResourceFiles\textures\JosieSpawn.tga was successfully loaded.
+	Attempting to load TGA image: ResourceFiles\textures\SallySpawn.tga
+	ResourceFiles\textures\SallySpawn.tga was successfully loaded.
+	Attempting to load TGA image: ResourceFiles\textures\MissElizabethSpawn.tga
+	ResourceFiles\textures\MissElizabethSpawn.tga was successfully loaded.
+	Attempting to load TGA image: ResourceFiles\textures\SumiSpawn.tga
+	ResourceFiles\textures\SumiSpawn.tga was successfully loaded.
+	Attempting to load TGA image: ResourceFiles\textures\heart.tga
+	ResourceFiles\textures\heart.tga was successfully loaded.
+	Attempting to load TGA image: ResourceFiles\textures\CannonShot.tga
+	ResourceFiles\textures\CannonShot.tga was successfully loaded.
+	Attempting to load TGA image: ResourceFiles\textures\Pinkback.tga
+	ResourceFiles\textures\Pinkback.tga was successfully loaded.
+	Attempting to load TGA image: ResourceFiles\textures\Pillow.tga
+	ResourceFiles\textures\Pillow.tga was successfully loaded.
+	Attempting to load TGA image: ResourceFiles\textures\PillowDark.tga
+	ResourceFiles\textures\PillowDark.tga was successfully loaded.
+	Attempting to load TGA image: ResourceFiles\textures\Title.tga
+	ResourceFiles\textures\Title.tga was successfully loaded.
+	Attempting to load TGA image: ResourceFiles\textures\Pinkback.tga
+		Image ResourceFiles\textures\Pinkback.tga already loaded.
+	Attempting to load TGA image: ResourceFiles\textures\Pillow.tga
+		Image ResourceFiles\textures\Pillow.tga already loaded.
+	Attempting to load TGA image: ResourceFiles\textures\PillowDark.tga
+		Image ResourceFiles\textures\PillowDark.tga already loaded.
+	Attempting to load TGA image: ResourceFiles\textures\JosieDone.tga
+	ResourceFiles\textures\JosieDone.tga was successfully loaded.
+	Attempting to load TGA image: ResourceFiles\textures\CaptainSallyDone.tga
+	ResourceFiles\textures\CaptainSallyDone.tga was successfully loaded.
+	Attempting to load TGA image: ResourceFiles\textures\MissElizabethDone.tga
+	ResourceFiles\textures\MissElizabethDone.tga was successfully loaded.
+	Attempting to load TGA image: ResourceFiles\textures\SumiDone.tga
+	ResourceFiles\textures\SumiDone.tga was successfully loaded.
+	Attempting to load TGA image: ResourceFiles\textures\Player1BG.tga
+	ResourceFiles\textures\Player1BG.tga was successfully loaded.
+	Attempting to load TGA image: ResourceFiles\textures\Player2BG.tga
+	ResourceFiles\textures\Player2BG.tga was successfully loaded.
+	Attempting to load TGA image: ResourceFiles\textures\Player3BG.tga
+	ResourceFiles\textures\Player3BG.tga was successfully loaded.
+	Attempting to load TGA image: ResourceFiles\textures\Player4BG.tga
+	ResourceFiles\textures\Player4BG.tga was successfully loaded.
+	Attempting to load TGA image: ResourceFiles\textures\Pinkback.tga
+		Image ResourceFiles\textures\Pinkback.tga already loaded.
+	Attempting to load TGA image: ResourceFiles\textures\Pillow.tga
+		Image ResourceFiles\textures\Pillow.tga already loaded.
+	Attempting to load TGA image: ResourceFiles\textures\PillowDark.tga
+		Image ResourceFiles\textures\PillowDark.tga already loaded.
+	Attempting to load TGA image: ResourceFiles\textures\Title.tga
+		Image ResourceFiles\textures\Title.tga already loaded.
+	Attempting to load TGA image: ResourceFiles\textures\DuckyBack.tga
+	ResourceFiles\textures\DuckyBack.tga was successfully loaded.
+	Attempting to load TGA image: ResourceFiles\textures\BmpFontsNEW.tga
+	ResourceFiles\textures\BmpFontsNEW.tga was successfully loaded.
+Shutting down the bitmap manager.
+Textures left in the bitmap manager: 26
+	Unloading texture: ResourceFiles\textures\Feather.tga
+	Unloading texture: ResourceFiles\textures\defaultparticle.tga
+	Unloading texture: ResourceFiles\textures\Death.tga
+	Unloading texture: ResourceFiles\textures\Puff.tga
+	Unloading texture: ResourceFiles\textures\PowerupHit.tga
+	Unloading texture: ResourceFiles\textures\Smoke.tga
+	Unloading texture: ResourceFiles\textures\JosieSpawn.tga
+	Unloading texture: ResourceFiles\textures\SallySpawn.tga
+	Unloading texture: ResourceFiles\textures\MissElizabethSpawn.tga
+	Unloading texture: ResourceFiles\textures\SumiSpawn.tga
+	Unloading texture: ResourceFiles\textures\heart.tga
+	Unloading texture: ResourceFiles\textures\CannonShot.tga
+	Unloading texture: ResourceFiles\textures\Pinkback.tga
+	Unloading texture: ResourceFiles\textures\Pillow.tga
+	Unloading texture: ResourceFiles\textures\PillowDark.tga
+	Unloading texture: ResourceFiles\textures\Title.tga
+	Unloading texture: ResourceFiles\textures\JosieDone.tga
+	Unloading texture: ResourceFiles\textures\CaptainSallyDone.tga
+	Unloading texture: ResourceFiles\textures\MissElizabethDone.tga
+	Unloading texture: ResourceFiles\textures\SumiDone.tga
+	Unloading texture: ResourceFiles\textures\Player1BG.tga
+	Unloading texture: ResourceFiles\textures\Player2BG.tga
+	Unloading texture: ResourceFiles\textures\Player3BG.tga
+	Unloading texture: ResourceFiles\textures\Player4BG.tga
+	Unloading texture: ResourceFiles\textures\DuckyBack.tga
+	Unloading texture: ResourceFiles\textures\BmpFontsNEW.tga
+
+
+Sun Mar 26 17:56:03 2006
+Initializing the bitmap manager.
+	Attempting to load TGA image: ResourceFiles\textures\carbon_13.tga
+	ResourceFiles\textures\carbon_13.tga was successfully loaded.
+	Attempting to load TGA image: ResourceFiles\textures\smileytooth1.tga
+	ResourceFiles\textures\smileytooth1.tga was successfully loaded.
+	Attempting to load TGA image: ResourceFiles\textures\Feather.tga
+	ResourceFiles\textures\Feather.tga was successfully loaded.
+	Attempting to load TGA image: ResourceFiles\textures\defaultparticle.tga
+	ResourceFiles\textures\defaultparticle.tga was successfully loaded.
+	Attempting to load TGA image: ResourceFiles\textures\Death.tga
+	ResourceFiles\textures\Death.tga was successfully loaded.
+	Attempting to load TGA image: ResourceFiles\textures\defaultparticle.tga
+		Image ResourceFiles\textures\defaultparticle.tga already loaded.
+	Attempting to load TGA image: ResourceFiles\textures\Puff.tga
+	ResourceFiles\textures\Puff.tga was successfully loaded.
+	Attempting to load TGA image: ResourceFiles\textures\PowerupHit.tga
+	ResourceFiles\textures\PowerupHit.tga was successfully loaded.
+	Attempting to load TGA image: ResourceFiles\textures\Smoke.tga
+	ResourceFiles\textures\Smoke.tga was successfully loaded.
+	Attempting to load TGA image: ResourceFiles\textures\JosieSpawn.tga
+	ResourceFiles\textures\JosieSpawn.tga was successfully loaded.
+	Attempting to load TGA image: ResourceFiles\textures\SallySpawn.tga
+	ResourceFiles\textures\SallySpawn.tga was successfully loaded.
+	Attempting to load TGA image: ResourceFiles\textures\MissElizabethSpawn.tga
+	ResourceFiles\textures\MissElizabethSpawn.tga was successfully loaded.
+	Attempting to load TGA image: ResourceFiles\textures\SumiSpawn.tga
+	ResourceFiles\textures\SumiSpawn.tga was successfully loaded.
+	Attempting to load TGA image: ResourceFiles\textures\heart.tga
+	ResourceFiles\textures\heart.tga was successfully loaded.
+	Attempting to load TGA image: ResourceFiles\textures\CannonShot.tga
+	ResourceFiles\textures\CannonShot.tga was successfully loaded.
+	Attempting to load TGA image: ResourceFiles\textures\Pinkback.tga
+	ResourceFiles\textures\Pinkback.tga was successfully loaded.
+	Attempting to load TGA image: ResourceFiles\textures\Pillow.tga
+	ResourceFiles\textures\Pillow.tga was successfully loaded.
+	Attempting to load TGA image: ResourceFiles\textures\PillowDark.tga
+	ResourceFiles\textures\PillowDark.tga was successfully loaded.
+	Attempting to load TGA image: ResourceFiles\textures\Title.tga
+	ResourceFiles\textures\Title.tga was successfully loaded.
+	Attempting to load TGA image: ResourceFiles\textures\Pinkback.tga
+		Image ResourceFiles\textures\Pinkback.tga already loaded.
+	Attempting to load TGA image: ResourceFiles\textures\Pillow.tga
+		Image ResourceFiles\textures\Pillow.tga already loaded.
+	Attempting to load TGA image: ResourceFiles\textures\PillowDark.tga
+		Image ResourceFiles\textures\PillowDark.tga already loaded.
+	Attempting to load TGA image: ResourceFiles\textures\JosieDone.tga
+	ResourceFiles\textures\JosieDone.tga was successfully loaded.
+	Attempting to load TGA image: ResourceFiles\textures\CaptainSallyDone.tga
+	ResourceFiles\textures\CaptainSallyDone.tga was successfully loaded.
+	Attempting to load TGA image: ResourceFiles\textures\MissElizabethDone.tga
+	ResourceFiles\textures\MissElizabethDone.tga was successfully loaded.
+	Attempting to load TGA image: ResourceFiles\textures\SumiDone.tga
+	ResourceFiles\textures\SumiDone.tga was successfully loaded.
+	Attempting to load TGA image: ResourceFiles\textures\Player1BG.tga
+	ResourceFiles\textures\Player1BG.tga was successfully loaded.
+	Attempting to load TGA image: ResourceFiles\textures\Player2BG.tga
+	ResourceFiles\textures\Player2BG.tga was successfully loaded.
+	Attempting to load TGA image: ResourceFiles\textures\Player3BG.tga
+	ResourceFiles\textures\Player3BG.tga was successfully loaded.
+	Attempting to load TGA image: ResourceFiles\textures\Player4BG.tga
+	ResourceFiles\textures\Player4BG.tga was successfully loaded.
+	Attempting to load TGA image: ResourceFiles\textures\Pinkback.tga
+		Image ResourceFiles\textures\Pinkback.tga already loaded.
+	Attempting to load TGA image: ResourceFiles\textures\Pillow.tga
+		Image ResourceFiles\textures\Pillow.tga already loaded.
+	Attempting to load TGA image: ResourceFiles\textures\PillowDark.tga
+		Image ResourceFiles\textures\PillowDark.tga already loaded.
+	Attempting to load TGA image: ResourceFiles\textures\Title.tga
+		Image ResourceFiles\textures\Title.tga already loaded.
+	Attempting to load TGA image: ResourceFiles\textures\DuckyBack.tga
+	ResourceFiles\textures\DuckyBack.tga was successfully loaded.
+	Attempting to load TGA image: ResourceFiles\textures\BmpFontsNEW.tga
+	ResourceFiles\textures\BmpFontsNEW.tga was successfully loaded.
+	Attempting to load TGA image: ResourceFiles\textures\CaptainSallyLose.tga
+	ResourceFiles\textures\CaptainSallyLose.tga was successfully loaded.
+	Unloading texture: ResourceFiles\textures\carbon_13.tga
+	Unloading texture: ResourceFiles\textures\smileytooth1.tga
+	Unloading texture: ResourceFiles\textures\Feather.tga
+	Unloading texture: ResourceFiles\textures\defaultparticle.tga
+	Unloading texture: ResourceFiles\textures\Death.tga
+	Unloading texture: ResourceFiles\textures\Puff.tga
+	Unloading texture: ResourceFiles\textures\PowerupHit.tga
+	Unloading texture: ResourceFiles\textures\Smoke.tga
+	Unloading texture: ResourceFiles\textures\JosieSpawn.tga
+	Unloading texture: ResourceFiles\textures\SallySpawn.tga
+	Unloading texture: ResourceFiles\textures\MissElizabethSpawn.tga
+	Unloading texture: ResourceFiles\textures\SumiSpawn.tga
+	Unloading texture: ResourceFiles\textures\heart.tga
+	Unloading texture: ResourceFiles\textures\CannonShot.tga
+	Unloading texture: ResourceFiles\textures\Pinkback.tga
+	Unloading texture: ResourceFiles\textures\Pillow.tga
+	Unloading texture: ResourceFiles\textures\PillowDark.tga
+	Unloading texture: ResourceFiles\textures\Title.tga
+	Unloading texture: ResourceFiles\textures\JosieDone.tga
+	Unloading texture: ResourceFiles\textures\CaptainSallyDone.tga
+	Unloading texture: ResourceFiles\textures\MissElizabethDone.tga
+	Unloading texture: ResourceFiles\textures\SumiDone.tga
+	Unloading texture: ResourceFiles\textures\Player1BG.tga
+	Unloading texture: ResourceFiles\textures\Player2BG.tga
+	Unloading texture: ResourceFiles\textures\Player3BG.tga
+	Unloading texture: ResourceFiles\textures\Player4BG.tga
+	Unloading texture: ResourceFiles\textures\DuckyBack.tga
+	Unloading texture: ResourceFiles\textures\BmpFontsNEW.tga
+	Unloading texture: ResourceFiles\textures\CaptainSallyLose.tga
+	Attempting to load TGA image: ResourceFiles\textures\Feather.tga
+	ResourceFiles\textures\Feather.tga was successfully loaded.
+	Attempting to load TGA image: ResourceFiles\textures\defaultparticle.tga
+	ResourceFiles\textures\defaultparticle.tga was successfully loaded.
+	Attempting to load TGA image: ResourceFiles\textures\Death.tga
+	ResourceFiles\textures\Death.tga was successfully loaded.
+	Attempting to load TGA image: ResourceFiles\textures\defaultparticle.tga
+		Image ResourceFiles\textures\defaultparticle.tga already loaded.
+	Attempting to load TGA image: ResourceFiles\textures\Puff.tga
+	ResourceFiles\textures\Puff.tga was successfully loaded.
+	Attempting to load TGA image: ResourceFiles\textures\PowerupHit.tga
+	ResourceFiles\textures\PowerupHit.tga was successfully loaded.
+	Attempting to load TGA image: ResourceFiles\textures\Smoke.tga
+	ResourceFiles\textures\Smoke.tga was successfully loaded.
+	Attempting to load TGA image: ResourceFiles\textures\JosieSpawn.tga
+	ResourceFiles\textures\JosieSpawn.tga was successfully loaded.
+	Attempting to load TGA image: ResourceFiles\textures\SallySpawn.tga
+	ResourceFiles\textures\SallySpawn.tga was successfully loaded.
+	Attempting to load TGA image: ResourceFiles\textures\MissElizabethSpawn.tga
+	ResourceFiles\textures\MissElizabethSpawn.tga was successfully loaded.
+	Attempting to load TGA image: ResourceFiles\textures\SumiSpawn.tga
+	ResourceFiles\textures\SumiSpawn.tga was successfully loaded.
+	Attempting to load TGA image: ResourceFiles\textures\heart.tga
+	ResourceFiles\textures\heart.tga was successfully loaded.
+	Attempting to load TGA image: ResourceFiles\textures\CannonShot.tga
+	ResourceFiles\textures\CannonShot.tga was successfully loaded.
+	Attempting to load TGA image: ResourceFiles//textures//cannon.tga
+	ResourceFiles//textures//cannon.tga was successfully loaded.
+	Attempting to load TGA image: ResourceFiles//textures//cannon.tga
+		Image ResourceFiles//textures//cannon.tga already loaded.
+	Attempting to load TGA image: ResourceFiles//textures//pirateship.tga
+	ResourceFiles//textures//pirateship.tga was successfully loaded.
+	Attempting to load TGA image: ResourceFiles\textures\galaxy2.tga
+	ResourceFiles\textures\galaxy2.tga was successfully loaded.
+	Attempting to load TGA image: ResourceFiles//textures//water.tga
+	ResourceFiles//textures//water.tga was successfully loaded.
+	Attempting to load TGA image: ResourceFiles//textures//pear.tga
+	ResourceFiles//textures//pear.tga was successfully loaded.
+	Attempting to load TGA image: ResourceFiles//textures//pineapple.tga
+	ResourceFiles//textures//pineapple.tga was successfully loaded.
+	Attempting to load TGA image: ResourceFiles//textures//cone.tga
+	ResourceFiles//textures//cone.tga was successfully loaded.
+	Attempting to load TGA image: ResourceFiles//textures//bitball.tga
+	ResourceFiles//textures//bitball.tga was successfully loaded.
+	Attempting to load TGA image: ResourceFiles//textures//pie.tga
+	ResourceFiles//textures//pie.tga was successfully loaded.
+	Attempting to load TGA image: ResourceFiles//textures//turkey.tga
+	ResourceFiles//textures//turkey.tga was successfully loaded.
+	Attempting to load TGA image: ResourceFiles//textures//josie_texture.tga
+	ResourceFiles//textures//josie_texture.tga was successfully loaded.
+	Attempting to load TGA image: ResourceFiles//textures//josiePillow.tga
+	ResourceFiles//textures//josiePillow.tga was successfully loaded.
+	Attempting to load TGA image: ResourceFiles//textures//josie_texture.tga
+		Image ResourceFiles//textures//josie_texture.tga already loaded.
+	Attempting to load TGA image: ResourceFiles//textures//josiePillow.tga
+		Image ResourceFiles//textures//josiePillow.tga already loaded.
+	Attempting to load TGA image: ResourceFiles\textures\JosiePortrait.tga
+	ResourceFiles\textures\JosiePortrait.tga was successfully loaded.
+	Attempting to load TGA image: ResourceFiles\textures\SallyPortrait.tga
+	ResourceFiles\textures\SallyPortrait.tga was successfully loaded.
+	Attempting to load TGA image: ResourceFiles\textures\portraitBckCircle.tga
+	ResourceFiles\textures\portraitBckCircle.tga was successfully loaded.
+	Attempting to load TGA image: ResourceFiles\textures\BmpFontsNEW.tga
+	ResourceFiles\textures\BmpFontsNEW.tga was successfully loaded.
+	Attempting to load TGA image: ResourceFiles\textures\CaptainSallyDone.tga
+	ResourceFiles\textures\CaptainSallyDone.tga was successfully loaded.
+Shutting down the bitmap manager.
+Textures left in the bitmap manager: 29
+	Unloading texture: ResourceFiles\textures\Feather.tga
+	Unloading texture: ResourceFiles\textures\defaultparticle.tga
+	Unloading texture: ResourceFiles\textures\Death.tga
+	Unloading texture: ResourceFiles\textures\Puff.tga
+	Unloading texture: ResourceFiles\textures\PowerupHit.tga
+	Unloading texture: ResourceFiles\textures\Smoke.tga
+	Unloading texture: ResourceFiles\textures\JosieSpawn.tga
+	Unloading texture: ResourceFiles\textures\SallySpawn.tga
+	Unloading texture: ResourceFiles\textures\MissElizabethSpawn.tga
+	Unloading texture: ResourceFiles\textures\SumiSpawn.tga
+	Unloading texture: ResourceFiles\textures\heart.tga
+	Unloading texture: ResourceFiles\textures\CannonShot.tga
+	Unloading texture: ResourceFiles//textures//cannon.tga
+	Unloading texture: ResourceFiles//textures//pirateship.tga
+	Unloading texture: ResourceFiles\textures\galaxy2.tga
+	Unloading texture: ResourceFiles//textures//water.tga
+	Unloading texture: ResourceFiles//textures//pear.tga
+	Unloading texture: ResourceFiles//textures//pineapple.tga
+	Unloading texture: ResourceFiles//textures//cone.tga
+	Unloading texture: ResourceFiles//textures//bitball.tga
+	Unloading texture: ResourceFiles//textures//pie.tga
+	Unloading texture: ResourceFiles//textures//turkey.tga
+	Unloading texture: ResourceFiles//textures//josie_texture.tga
+	Unloading texture: ResourceFiles//textures//josiePillow.tga
+	Unloading texture: ResourceFiles\textures\JosiePortrait.tga
+	Unloading texture: ResourceFiles\textures\SallyPortrait.tga
+	Unloading texture: ResourceFiles\textures\portraitBckCircle.tga
+	Unloading texture: ResourceFiles\textures\BmpFontsNEW.tga
+	Unloading texture: ResourceFiles\textures\CaptainSallyDone.tga

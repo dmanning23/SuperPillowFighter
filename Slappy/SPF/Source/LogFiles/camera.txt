@@ -1,0 +1,10 @@
+
+
+Mon Dec 20 21:21:08 2004
+Constructing the camera class.
+Destructing the camera class.
+
+
+Sun Mar 26 17:56:01 2006
+Constructing the camera class.
+Destructing the camera class.

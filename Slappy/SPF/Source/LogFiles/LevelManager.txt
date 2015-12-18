@@ -1,0 +1,81 @@
+
+
+Mon Dec 20 21:21:08 2004
+Constructing the level manager.
+	Attempting to load model: "ResourceFiles//Levels//pirateBoat.spl"
+	Header data: 
+		Number of level objects: 1
+		Number of spawn points: 4
+		Number of lights: 1
+		Number of bg images: 1
+		Boundaries: 
+		Left: -15
+		Right: 40
+		Top: 35
+		Bottom: -10
+	Orientation and position matrix for this level object: 
+	1	0	0	0	
+	0	1	0	0	
+	0	0	1	0	
+	5	-1	0.5	1	
+
+	Spawn points for this level: 
+		Spawn point 0 - (-4, 16, 0)
+		Spawn point 1 - (4, 16, 0)
+		Spawn point 2 - (9, 16, 0)
+		Spawn point 3 - (15, 16, 0)
+	Lights for this level: 
+		Light 0 - (15, 11, 0)
+	Textures for this level: 
+		Background 0
+		Layer: 0
+		Bitmap ID: 14
+		Vertical Scrolling: 2.7
+		Horizontal Scrolling: 8.9
+		Powerup time delta: 2.1
+Number of sound effects for this level: 3
+	ResourceFiles\Sounds\Boat Creak Long.wav
+	ResourceFiles\Sounds\Flag 2.wav
+	ResourceFiles\Sounds\Wave Long.wav
+Music file: ResourceFiles\Music\pirate.ogg
+Destroying the level manager.
+
+
+Sun Mar 26 17:56:03 2006
+Constructing the level manager.
+	Attempting to load model: "ResourceFiles//Levels//pirateBoat.spl"
+	Header data: 
+		Number of level objects: 1
+		Number of spawn points: 4
+		Number of lights: 1
+		Number of bg images: 1
+		Boundaries: 
+		Left: -15
+		Right: 40
+		Top: 35
+		Bottom: -10
+	Orientation and position matrix for this level object: 
+	1	0	0	0	
+	0	1	0	0	
+	0	0	1	0	
+	5	-1	0.5	1	
+
+	Spawn points for this level: 
+		Spawn point 0 - (-4, 16, 0)
+		Spawn point 1 - (4, 16, 0)
+		Spawn point 2 - (9, 16, 0)
+		Spawn point 3 - (15, 16, 0)
+	Lights for this level: 
+		Light 0 - (15, 11, 0)
+	Textures for this level: 
+		Background 0
+		Layer: 0
+		Bitmap ID: 14
+		Vertical Scrolling: 2.7
+		Horizontal Scrolling: 8.9
+		Powerup time delta: 2.1
+Number of sound effects for this level: 3
+	ResourceFiles\Sounds\Boat Creak Long.wav
+	ResourceFiles\Sounds\Flag 2.wav
+	ResourceFiles\Sounds\Wave Long.wav
+Music file: ResourceFiles\Music\pirate.ogg
