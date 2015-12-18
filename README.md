@@ -1,6 +1,6 @@
 # Super Pillow Fighter
 
-[[https://github.com/dmanning23/SuperPillowFighter/blob/master/Josie.jpg?raw=true]]
+![Alt text](/Josie.jpg?raw=true "josie")
 
 school final project from ye olden times: pillow-fighting smash-brothers clone
 
